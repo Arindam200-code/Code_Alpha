@@ -60,9 +60,6 @@ This repository contains the tasks completed as part of the **CodeAlpha Python P
 ## 🚀 How to Run
 
 1. Clone the repository:
-```
-git clone https://github.com/your-username/repo-name.git
-```
 
 2. Run any file:
 ```
