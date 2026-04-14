@@ -51,7 +51,7 @@ This repository contains the tasks completed as part of the **CodeAlpha Python P
 
 ```
 ├── hangman.py
-├── Task2_Stock.py
+├── Stock_Tracker.py
 ├── chatbot.py
 ```
 
